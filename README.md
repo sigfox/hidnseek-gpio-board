@@ -8,7 +8,7 @@ The intension of this board is to allow developers and makers to utilise the und
 
 <p align="center"><img src ="https://raw.githubusercontent.com/sigfox/hidnseek-gpio-board/master/Images/hidnseek-gpio.png" width="500"></p>
 
+See https://github.com/hidnseek/hidnseek for more info about the HidnSeek.
 
 Credit to **Stephane Driussi** for the daughter board pin layout
 
-See https://github.com/hidnseek/hidnseek for more info about the HidnSeek.

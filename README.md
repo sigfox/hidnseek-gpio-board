@@ -6,7 +6,7 @@ This repo contains the .brd and .sch files required for the HidnSeek GPIO Extens
 
 The intension of this board is to allow developers and makers to utilise the underlying hardware and to expand it with their own designs.
 
-<p align="center"><img src ="https://raw.githubusercontent.com/sigfox/hidnseek-gpio-board/master/Images/hidnseek-gpio.png" width="600"></p>
+<p align="center"><img src ="https://raw.githubusercontent.com/sigfox/hidnseek-gpio-board/master/Images/hidnseek-gpio.png" width="500"></p>
 
 
 Credit to **Stephane Driussi** for the daughter board pin layout

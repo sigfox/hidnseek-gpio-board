@@ -6,3 +6,5 @@ The intension of this board is to allow developers and makers to utilise the und
 
 
 Credit to **Stephane Driussi** for the daughter board pin layout
+
+See https://github.com/hidnseek/hidnseek for more info about the HidnSeek.
